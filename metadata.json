@@ -1,0 +1,5 @@
+{
+  "name": "Product Competitor Analysis",
+  "description": "An intelligent system that identifies product competitors based on sales data from nearby stores or store clusters, leveraging the Gemini API for analysis and D3 for visualization.",
+  "requestFramePermissions": []
+}
